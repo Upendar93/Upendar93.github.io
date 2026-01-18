@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Upendar Reddy"
-  avatar           : "/assets/images/profilepic.jpg"
+  avatar           : "/assets/images/profilepic.jpeg"
   bio              : "Data Analyst / BI Analyst specializing in SQL, Power BI, and Python."
   location         : "United States"
   email            :
