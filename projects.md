@@ -1,9 +1,16 @@
 ---
-layout: collection
+layout: archive
 title: "Projects"
 permalink: /projects/
-collection: projects
-entries_layout: grid
+author_profile: true
 ---
 
-Explore my data analytics and business intelligence projects below.
+{% for project in site.projects %}
+## {{ project.title }}
+
+{{ project.excerpt }}
+
+[View Project →]({{ project.url }})
+
+---
+{% endfor %}
