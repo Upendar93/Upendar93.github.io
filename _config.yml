@@ -331,3 +331,7 @@ defaults:
 collections:
   posts:
     output: false
+
+collections:
+  projects:
+    output: true
