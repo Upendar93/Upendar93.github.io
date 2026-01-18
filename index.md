@@ -17,3 +17,12 @@ I specialize in:
 - Data-driven decision support
 
 ⬇️ Scroll down to see my projects
+
+---
+
+## 🚀 My Projects
+
+Explore my data analytics and BI projects showcasing dashboards, insights, and real-world analysis.
+
+👉 [View All Projects →](/projects/)
+
