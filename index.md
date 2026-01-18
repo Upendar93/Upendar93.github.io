@@ -1,7 +1,11 @@
 ---
 layout: home
 author_profile: true
+entries_layout: grid
+show_date: false
+paginate: false
 ---
+
 
 Hi, I'm **Upendar Reddy** 👋  
 
