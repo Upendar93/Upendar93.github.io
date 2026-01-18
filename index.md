@@ -1,0 +1,15 @@
+---
+layout: home
+author_profile: true
+---
+
+Hi, I'm **Upendar Reddy** 👋  
+
+I’m a **Data Analyst / BI Analyst** with experience in **SQL, Power BI, Python, Tableau**.
+
+I specialize in:
+- Building interactive dashboards
+- Business intelligence reporting
+- Data-driven decision support
+
+⬇️ Scroll down to see my projects
