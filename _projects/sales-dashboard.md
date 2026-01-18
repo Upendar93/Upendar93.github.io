@@ -1,8 +1,16 @@
 ---
 title: "Sales Dashboard"
-excerpt: "Power BI dashboard analyzing sales trends and KPIs"
-header:
-  teaser: /assets/images/sales-dashboard.png
+excerpt: "Interactive Power BI dashboard analyzing sales performance and trends."
 ---
 
-Built an interactive Power BI dashboard to track sales performance, revenue trends, and KPIs.
+### 📊 Sales Dashboard Project
+
+**Tools Used:** Power BI, SQL, Excel  
+
+**Description:**  
+This project analyzes sales performance across regions, products, and time periods using an interactive Power BI dashboard.
+
+**Key Features:**
+- KPI cards for revenue and profit
+- Regional sales breakdown
+- Time-series trend analysis
