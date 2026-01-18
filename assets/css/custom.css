@@ -1,0 +1,19 @@
+/* Background */
+body {
+  background-color: #f5fff9;
+}
+
+/* Links */
+a {
+  color: #2bb673;
+}
+
+/* Sidebar background */
+.sidebar {
+  background-color: #e6f7ef;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #1f7f5c;
+}
