@@ -331,7 +331,7 @@ defaults:
 collections:
   posts:
     output: false
-
-collections:
   projects:
     output: true
+    permalink: /projects/:name/
+
