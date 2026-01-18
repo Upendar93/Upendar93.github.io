@@ -233,7 +233,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
-paginate: 0 # amount of posts to show
+paginate: false # amount of posts to show
 paginate_path: /page:num/
 
 # Pagination with jekyll-paginate-v2
@@ -325,3 +325,6 @@ defaults:
       comments: # true
       share: true
       related: true
+collections:
+  posts:
+    output: false
